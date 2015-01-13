@@ -33,6 +33,6 @@
                   data/Q_lose.png,
                   data/Q_win.png,
                   data/q-bg.png,
-                  // data/wow.mp3,
+                  data/wow.mp3,
                   data/boy.png"; */
 
